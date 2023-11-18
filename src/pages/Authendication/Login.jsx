@@ -33,8 +33,8 @@ export default function Login() {
                                 <h2 className="mt-10 mb-10 text-center text-2xl font-bold leading-9 tracking-tight text-gray-900">
                                     Sign in to your account
                                 </h2>
-                                <h6 className='font-thin text-center text-rose-600'>Authentication Enabled (or)</h6>
-                                <h6 className='font-thin mb-2 text-center text-rose-600'>Email:test01@gmail.com, Password:1234</h6>
+                                <h6 className='font-thin text-center text-red-400'>Authentication Enabled (or)</h6>
+                                <h6 className='font-thin mb-2 text-center text-red-400'>Email:test01@gmail.com, Password:1234</h6>
                                 <label htmlFor="email" className="block text-sm font-medium leading-6 text-gray-900">
                                     Email address
                                 </label>
